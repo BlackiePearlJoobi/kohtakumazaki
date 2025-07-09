@@ -7,19 +7,19 @@ const Hero = () => {
     <section className="w-full px-[24px] pt-[24px] flex flex-col items-center gap-[24px] sm:px-[40px] sm:pt-[60px] sm:flex-row-reverse lg:max-w-[1325px] lg:mx-auto lg:gap-[120px]">
       <picture className="w-[220px] sm:w-[275px] lg:w-[350px]">
         <source
-          srcSet={`${basePath}assets/images/image-profile-desktop.jpg`}
+          srcSet={`${basePath}/assets/images/image-profile-desktop.jpg`}
           media="(min-width: 1024px)"
           width={445}
           height={593}
         ></source>
         <source
-          srcSet={`${basePath}assets/images/image-profile-tablet.jpg`}
+          srcSet={`${basePath}/assets/images/image-profile-tablet.jpg`}
           media="(min-width: 640px)"
           width={375}
           height={500}
         ></source>
         <img
-          src={`${basePath}assets/images/image-profile-mobile.jpg`}
+          src={`${basePath}/assets/images/image-profile-mobile.jpg`}
           alt="Profile image"
           width={300}
           height={400}

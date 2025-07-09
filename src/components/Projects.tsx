@@ -16,13 +16,13 @@ const Projects = () => {
           >
             <picture>
               <source
-                srcSet={`${basePath}${project.image.large}`}
+                srcSet={`${basePath}/${project.image.large}`}
                 media="(min-width: 1024px)"
                 width={545}
                 height={400}
               ></source>
               <img
-                srcSet={`${basePath}${project.image.small}`}
+                srcSet={`${basePath}/${project.image.small}`}
                 width={343}
                 height={253}
                 alt={`thumbnail of ${project.name}`}

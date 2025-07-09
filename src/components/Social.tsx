@@ -15,7 +15,7 @@ const Social = ({ message }: { message: string }) => {
         {data.map((social) => (
           <a key={social.id} href={social.link} target="_blank">
             <img
-              src={`${basePath}${social.image}`}
+              src={`${basePath}/${social.image}`}
               alt={`${social.name} icon`}
               width={23}
               className="transition-transform duration-300 ease-in-out hover:scale-120"

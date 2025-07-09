@@ -15,7 +15,7 @@ const Stack = () => {
             className="w-[85px] h-[85px] py-[13.5px] flex flex-col items-center gap-[4px]"
           >
             <img
-              src={`${basePath}${skill.image}`}
+              src={`${basePath}/${skill.image}`}
               alt={`${skill.name} logo`}
               width={40}
               className="transition-transform duration-300 ease-in-out hover:scale-120 sm:w-[43px]"
