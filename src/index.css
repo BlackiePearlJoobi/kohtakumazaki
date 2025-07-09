@@ -1,0 +1,44 @@
+@import "tailwindcss";
+
+@font-face {
+  font-family: "Space Grotesk Bold";
+  src: url("assets/fonts/SpaceGrotesk-VariableFont_wght.ttf") format("truetype");
+  font-weight: 300 700;
+}
+
+:root {
+  --font-primary: "Space Grotesk Bold";
+  font-size: 16px;
+
+  --line-height-bold-88: 88px;
+  --letter-spacing-bold-88: -2.5px;
+
+  --line-height-bold-48: 56px;
+  --letter-spacing-bold-48: -1.5px;
+
+  --line-height-bold-24: 32px;
+
+  --line-height-medium-18: 28px;
+
+  --black: #151515;
+  --green: #4ee1a0;
+  --dark-yellow: #a9913c;
+  --dark-gray: #242424;
+  --stone: #3f3f3f;
+  --gray: #d9d9d9;
+  --white: #ffffff;
+}
+
+* {
+  /* outline: 1px solid rgb(200, 200, 200); */
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-primary);
+  max-width: 100%;
+  min-height: 100svh;
+}

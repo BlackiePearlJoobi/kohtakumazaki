@@ -1,0 +1,26 @@
+[
+  {
+    "id": "github",
+    "name": "GitHub",
+    "image": "assets/images/icon-github.svg",
+    "link": "https://github.com/BlackiePearlJoobi"
+  },
+  {
+    "id": "frontendmentor",
+    "name": "FrontendMentor",
+    "image": "assets/images/icon-frontendmentor.svg",
+    "link": "https://www.frontendmentor.io/profile/BlackiePearlJoobi"
+  },
+  {
+    "id": "linkedin",
+    "name": "LinkedIn",
+    "image": "assets/images/icon-linkedin.svg",
+    "link": "https://www.linkedin.com/in/kohta-kumazaki-059191374/"
+  },
+  {
+    "id": "email",
+    "name": "Email",
+    "image": "assets/images/icon-email.svg",
+    "link": "mailto:sherry526nightbaron@gmail.com"
+  }
+]

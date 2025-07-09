@@ -1,0 +1,62 @@
+[
+  {
+    "id": "html",
+    "name": "HTML",
+    "image": "assets/images/logo-html.svg"
+  },
+  {
+    "id": "css",
+    "name": "CSS",
+    "image": "assets/images/logo-css.svg"
+  },
+  {
+    "id": "javascript",
+    "name": "Javascript",
+    "image": "assets/images/logo-javascript.svg"
+  },
+  {
+    "id": "typescript",
+    "name": "Typescript",
+    "image": "assets/images/logo-typescript.svg"
+  },
+  {
+    "id": "react",
+    "name": "React",
+    "image": "assets/images/logo-react.svg"
+  },
+  {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "image": "assets/images/logo-tailwind.svg"
+  },
+  {
+    "id": "nextjs",
+    "name": "Next.js",
+    "image": "assets/images/logo-next.svg"
+  },
+  {
+    "id": "prisma",
+    "name": "Prisma",
+    "image": "assets/images/logo-prisma.svg"
+  },
+  {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "image": "assets/images/logo-postgresql.svg"
+  },
+  {
+    "id": "vite",
+    "name": "Vite",
+    "image": "assets/images/logo-vite.svg"
+  },
+  {
+    "id": "git",
+    "name": "Git",
+    "image": "assets/images/logo-git.svg"
+  },
+  {
+    "id": "a11y",
+    "name": "A11Y",
+    "image": "assets/images/logo-a11y.svg"
+  }
+]

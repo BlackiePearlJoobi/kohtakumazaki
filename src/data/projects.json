@@ -1,0 +1,52 @@
+[
+  {
+    "id": "audiophille",
+    "name": "Audiophille E-commerce Website",
+    "image": {
+      "small": "assets/images/thumbnail-audiophille-small.png",
+      "large": "assets/images/thumbnail-audiophille-large.png"
+    },
+    "description": "A responsive full-stack e-commerce platform with dynamic SSR, streamlined state management, and an accessible checkout experience.",
+    "tech": [
+      "Next.js",
+      "Tailwind CSS",
+      "Prisma",
+      "PostgreSQL",
+      "React Hook Form",
+      "React's Context API"
+    ],
+    "live": "https://audiophile-ecommerce-website-bice.vercel.app/",
+    "code": "https://github.com/BlackiePearlJoobi/audiophile-ecommerce-website"
+  },
+  {
+    "id": "connectfour",
+    "name": "Connect Four Game",
+    "image": {
+      "small": "assets/images/thumbnail-connectfour-small.png",
+      "large": "assets/images/thumbnail-connectfour-large.jpeg"
+    },
+    "description": "A classic board game complete with fluid animations and AI opponents that adapt to your skill level.",
+    "tech": [
+      "CSS",
+      "React",
+      "Typescript",
+      "Vite",
+      "React's Context API",
+      "animation"
+    ],
+    "live": "https://blackiepearljoobi.github.io/connect-four-game/",
+    "code": "https://github.com/BlackiePearlJoobi/connect-four-game"
+  },
+  {
+    "id": "passwordgenerator",
+    "name": "Password Generator App",
+    "image": {
+      "small": "assets/images/thumbnail-password-small.jpg",
+      "large": "assets/images/thumbnail-password-large.jpeg"
+    },
+    "description": "A dynamic password generator with customizable options and real-time strength feedback.",
+    "tech": ["HTML", "CSS", "Typescript"],
+    "live": "https://blackiepearljoobi.github.io/password-generator-app/",
+    "code": "https://github.com/BlackiePearlJoobi/password-generator-app"
+  }
+]
