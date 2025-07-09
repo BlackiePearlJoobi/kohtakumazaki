@@ -4,7 +4,7 @@
     "name": "Audiophille E-commerce Website",
     "image": {
       "small": "assets/images/thumbnail-audiophille-small.png",
-      "large": "assets/images/thumbnail-audiophille-large.png"
+      "large": "assets/images/thumbnail-audiophille-large.jpg"
     },
     "description": "A responsive full-stack e-commerce platform with dynamic SSR, streamlined state management, and an accessible checkout experience.",
     "tech": [
@@ -23,7 +23,7 @@
     "name": "Connect Four Game",
     "image": {
       "small": "assets/images/thumbnail-connectfour-small.png",
-      "large": "assets/images/thumbnail-connectfour-large.jpeg"
+      "large": "assets/images/thumbnail-connectfour-large.jpg"
     },
     "description": "A classic board game complete with fluid animations and AI opponents that adapt to your skill level.",
     "tech": [
@@ -42,7 +42,7 @@
     "name": "Password Generator App",
     "image": {
       "small": "assets/images/thumbnail-password-small.jpg",
-      "large": "assets/images/thumbnail-password-large.jpeg"
+      "large": "assets/images/thumbnail-password-large.jpg"
     },
     "description": "A dynamic password generator with customizable options and real-time strength feedback.",
     "tech": ["HTML", "CSS", "Typescript"],
