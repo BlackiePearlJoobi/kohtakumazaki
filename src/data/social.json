@@ -2,25 +2,37 @@
   {
     "id": "github",
     "name": "GitHub",
-    "image": "assets/images/icon-github.svg",
+    "image": {
+      "dark": "assets/images/icon-github-dark.svg",
+      "light": "assets/images/icon-github-light.svg"
+    },
     "link": "https://github.com/BlackiePearlJoobi"
   },
   {
     "id": "frontendmentor",
     "name": "FrontendMentor",
-    "image": "assets/images/icon-frontendmentor.svg",
+    "image": {
+      "dark": "assets/images/icon-frontendmentor-dark.svg",
+      "light": "assets/images/icon-frontendmentor-light.svg"
+    },
     "link": "https://www.frontendmentor.io/profile/BlackiePearlJoobi"
   },
   {
     "id": "linkedin",
     "name": "LinkedIn",
-    "image": "assets/images/icon-linkedin.svg",
+    "image": {
+      "dark": "assets/images/icon-linkedin-dark.svg",
+      "light": "assets/images/icon-linkedin-light.svg"
+    },
     "link": "https://www.linkedin.com/in/kohta-kumazaki-059191374/"
   },
   {
     "id": "email",
     "name": "Email",
-    "image": "assets/images/icon-email.svg",
+    "image": {
+      "dark": "assets/images/icon-email-dark.svg",
+      "light": "assets/images/icon-email-light.svg"
+    },
     "link": "mailto:sherry526nightbaron@gmail.com"
   }
 ]

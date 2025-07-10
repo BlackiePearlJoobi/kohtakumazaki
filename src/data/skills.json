@@ -22,7 +22,8 @@
   {
     "id": "react",
     "name": "React",
-    "image": "assets/images/logo-react.svg"
+    "image": "assets/images/logo-react.svg",
+    "light": "assets/images/logo-react-light.svg"
   },
   {
     "id": "tailwindcss",
@@ -37,7 +38,8 @@
   {
     "id": "prisma",
     "name": "Prisma",
-    "image": "assets/images/logo-prisma.svg"
+    "image": "assets/images/logo-prisma.svg",
+    "light": "assets/images/logo-prisma-light.svg"
   },
   {
     "id": "postgresql",
@@ -57,6 +59,7 @@
   {
     "id": "a11y",
     "name": "A11Y",
-    "image": "assets/images/logo-a11y.svg"
+    "image": "assets/images/logo-a11y.svg",
+    "light": "assets/images/logo-a11y-light.svg"
   }
 ]

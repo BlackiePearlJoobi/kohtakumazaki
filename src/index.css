@@ -20,13 +20,21 @@
 
   --line-height-medium-18: 28px;
 
-  --black: #151515;
+  /* dark mode */
   --green: #4ee1a0;
-  --dark-yellow: #a9913c;
+  --stone: #3f3f3f; /* bg of project article */
+
+  /* both modes */
+  --black: #151515;
   --dark-gray: #242424;
-  --stone: #3f3f3f;
   --gray: #d9d9d9;
   --white: #ffffff;
+
+  /* light mode */
+  --dark-orange: #ffc767;
+  --orange: #fdd7ac;
+  --warm: #fcf1db;
+  --light: #f9f4e9;
 }
 
 * {
