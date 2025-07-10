@@ -26,10 +26,10 @@ const Hero = () => {
           className="rounded-[50%]"
         ></img>
       </picture>
-      <article className="flex flex-col items-center gap-[24px] sm:flex-1 sm:items-start sm:gap-[42px]">
-        <h1 className="text-[34px] font-bold leading-[40px] tracking-[-1.14px] text-[var(--white)] text-center sm:text-start sm:text-[44px] sm:leading-[44px] sm:tracking-[-2.05px]">
+      <article className="flex flex-col items-center gap-[24px] sm:flex-1 sm:items-start sm:gap-[36px]">
+        <h1 className="text-[34px] font-bold leading-[40px] tracking-[-1.14px] text-[var(--white)] text-center sm:text-start sm:text-[42px] sm:leading-[42px] sm:tracking-[-2.05px] lg:text-[50px] lg:leading-[50px]">
           Hey there! <br></br>I'm{" "}
-          <span className="underline decoration-[4px] decoration-[var(--green)] underline-offset-8 bg-gradient-to-r from-blue-500 to-orange-500 bg-clip-text text-transparent inline-block sm:text-[48px] sm:leading-[60px]">
+          <span className="underline decoration-[4px] decoration-[var(--green)] underline-offset-8 bg-gradient-to-r from-blue-500 to-orange-500 bg-clip-text text-transparent inline-block sm:text-[48px] sm:leading-[60px] lg:text-[52px] lg:leading-[80px]">
             Kohta Kumazaki
           </span>
         </h1>
