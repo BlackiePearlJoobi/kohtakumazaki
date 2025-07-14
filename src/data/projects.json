@@ -1,10 +1,10 @@
 [
   {
-    "id": "audiophille",
-    "name": "Audiophille E-commerce Website",
+    "id": "audiophile",
+    "name": "Audiophile E-commerce Website",
     "image": {
-      "small": "assets/images/thumbnail-audiophille-small.png",
-      "large": "assets/images/thumbnail-audiophille-large.jpg"
+      "small": "assets/images/thumbnail-audiophile-small.png",
+      "large": "assets/images/thumbnail-audiophile-large.jpg"
     },
     "description": "A responsive full-stack e-commerce platform with dynamic SSR, streamlined state management, and an accessible checkout experience.",
     "tech": [
@@ -13,7 +13,7 @@
       "Prisma",
       "PostgreSQL",
       "React Hook Form",
-      "React's Context API"
+      "React Context API"
     ],
     "live": "https://audiophile-ecommerce-website-bice.vercel.app/",
     "code": "https://github.com/BlackiePearlJoobi/audiophile-ecommerce-website"
@@ -31,7 +31,7 @@
       "React",
       "Typescript",
       "Vite",
-      "React's Context API",
+      "React Context API",
       "animation"
     ],
     "live": "https://blackiepearljoobi.github.io/connect-four-game/",
