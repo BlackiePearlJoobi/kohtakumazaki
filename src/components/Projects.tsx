@@ -10,7 +10,7 @@ const Projects = () => {
   return (
     <section
       aria-labelledby="projects-heading"
-      className="relative mx-[24px] flex flex-col items-center gap-[40px] sm:mx-[40px]"
+      className="relative mx-[24px] flex flex-col items-center gap-[40px] sm:mx-[40px] lg:max-w-[1325px] lg:mx-auto"
     >
       <Heading ariaLabel="projects-heading" text="My Projects"></Heading>
       <div className="flex flex-col gap-[40px] sm:flex-row sm:flex-wrap sm:justify-center sm:gap-x-[22px]">

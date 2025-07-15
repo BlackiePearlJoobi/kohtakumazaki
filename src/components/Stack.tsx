@@ -9,12 +9,12 @@ const Stack = () => {
   return (
     <section
       aria-labelledby="stack-heading"
-      className="mx-[24px] flex flex-col items-center gap-[40px] sm:mx-[40px]"
+      className="mx-[24px] flex flex-col items-center gap-[40px] sm:mx-[40px] lg:max-w-[1325px] lg:mx-auto"
     >
       <Heading ariaLabel="stack-heading" text="My Skills"></Heading>
-      <div className="flex flex-row flex-wrap items-center justify-center gap-[20px] sm:gap-x-[25px]">
+      <ul className="flex flex-row flex-wrap items-center justify-center gap-[20px] sm:gap-x-[25px]">
         {data.map((skill) => (
-          <div
+          <li
             key={skill.id}
             className="w-[85px] h-[85px] py-[13.5px] flex flex-col items-center gap-[4px]"
           >
@@ -29,9 +29,9 @@ const Stack = () => {
             >
               {skill.name}
             </span>
-          </div>
+          </li>
         ))}
-      </div>
+      </ul>
     </section>
   );
 };
