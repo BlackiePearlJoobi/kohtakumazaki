@@ -26,14 +26,19 @@
     "light": "assets/images/logo-react-light.svg"
   },
   {
-    "id": "tailwindcss",
-    "name": "Tailwind CSS",
+    "id": "tailwind",
+    "name": "Tailwind",
     "image": "assets/images/logo-tailwind.svg"
   },
   {
     "id": "SCSS",
     "name": "SCSS",
     "image": "assets/images/logo-scss.svg"
+  },
+  {
+    "id": "jest",
+    "name": "Jest",
+    "image": "assets/images/logo-jest.svg"
   },
   {
     "id": "nextjs",
