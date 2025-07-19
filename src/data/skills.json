@@ -26,19 +26,24 @@
     "light": "assets/images/logo-react-light.svg"
   },
   {
-    "id": "tailwind",
-    "name": "Tailwind",
-    "image": "assets/images/logo-tailwind.svg"
-  },
-  {
     "id": "SCSS",
     "name": "SCSS",
     "image": "assets/images/logo-scss.svg"
   },
   {
+    "id": "tailwindcss",
+    "name": "Tailwind CSS",
+    "image": "assets/images/logo-tailwind.svg"
+  },
+  {
     "id": "jest",
     "name": "Jest",
     "image": "assets/images/logo-jest.svg"
+  },
+  {
+    "id": "testing-library",
+    "name": "React Testing Library",
+    "image": "assets/images/logo-testing-library.svg"
   },
   {
     "id": "nextjs",

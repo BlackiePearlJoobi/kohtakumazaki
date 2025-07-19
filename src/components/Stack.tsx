@@ -16,7 +16,7 @@ const Stack = () => {
         {data.map((skill) => (
           <li
             key={skill.id}
-            className="w-[85px] h-[85px] py-[13.5px] flex flex-col items-center gap-[4px]"
+            className="w-[85px] h-[85px] py-[13.5px] flex flex-col items-center gap-[8px]"
           >
             <img
               src={`${basePath}/${!darkMode && skill.light ? skill.light : skill.image}`}
@@ -25,7 +25,7 @@ const Stack = () => {
               className="transition-transform duration-300 ease-in-out hover:scale-120 sm:w-[43px]"
             ></img>
             <span
-              className={`text-[13px] font-medium leading-[26px] ${darkMode ? "text-[var(--gray)]" : "text-[var(--dark-gray)]"} text-center`}
+              className={`text-[12.5px] font-medium leading-[16px] ${darkMode ? "text-[var(--gray)]" : "text-[var(--dark-gray)]"} text-center`}
             >
               {skill.name}
             </span>
