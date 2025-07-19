@@ -51,15 +51,15 @@
     "image": "assets/images/logo-next.svg"
   },
   {
+    "id": "postgresql",
+    "name": "PostgreSQL",
+    "image": "assets/images/logo-postgresql.svg"
+  },
+  {
     "id": "prisma",
     "name": "Prisma",
     "image": "assets/images/logo-prisma.svg",
     "light": "assets/images/logo-prisma-light.svg"
-  },
-  {
-    "id": "postgresql",
-    "name": "PostgreSQL",
-    "image": "assets/images/logo-postgresql.svg"
   },
   {
     "id": "vite",

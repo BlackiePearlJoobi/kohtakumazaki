@@ -10,10 +10,11 @@
     "tech": [
       "Next.js",
       "Tailwind CSS",
-      "Prisma",
       "PostgreSQL",
+      "Prisma",
+      "React Context API",
       "React Hook Form",
-      "React Context API"
+      "Jest"
     ],
     "live": "https://audiophile-ecommerce-website-bice.vercel.app/",
     "code": "https://github.com/BlackiePearlJoobi/audiophile-ecommerce-website"
