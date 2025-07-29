@@ -30,7 +30,7 @@
     "tech": [
       "CSS",
       "React",
-      "Typescript",
+      "TypeScript",
       "Vite",
       "React Context API",
       "animation"
@@ -46,7 +46,7 @@
       "large": "assets/images/thumbnail-password-large.jpg"
     },
     "description": "A dynamic password generator with customizable options and real-time strength feedback.",
-    "tech": ["HTML", "CSS", "Typescript"],
+    "tech": ["HTML", "CSS", "TypeScript"],
     "live": "https://blackiepearljoobi.github.io/password-generator-app/",
     "code": "https://github.com/BlackiePearlJoobi/password-generator-app"
   }
