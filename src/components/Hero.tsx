@@ -42,8 +42,9 @@ const Hero = () => {
         <p
           className={`text-[16px] font-medium leading-[26px] ${darkMode ? "text-[var(--gray)]" : "text-[var(--dark-gray)]"} text-center sm:text-[18px] sm:text-start`}
         >
-          Web developer based in the US, focused on building inclusive, scalable
-          systems that prioritize real-world usability and ethical design.
+          Front-end developer based in the US, focused on building inclusive,
+          scalable systems that prioritize real-world usability and ethical
+          design.
         </p>
         <Social message="COLLABORATE WITH ME"></Social>
       </article>
