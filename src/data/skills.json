@@ -26,6 +26,17 @@
     "light": "assets/images/logo-react-light.svg"
   },
   {
+    "id": "nextjs",
+    "name": "Next.js",
+    "image": "assets/images/logo-next.svg"
+  },
+  {
+    "id": "express",
+    "name": "Express",
+    "image": "assets/images/logo-express.svg",
+    "light": "assets/images/logo-express-light.svg"
+  },
+  {
     "id": "SCSS",
     "name": "SCSS",
     "image": "assets/images/logo-scss.svg"
@@ -36,19 +47,9 @@
     "image": "assets/images/logo-tailwind.svg"
   },
   {
-    "id": "jest",
-    "name": "Jest",
-    "image": "assets/images/logo-jest.svg"
-  },
-  {
-    "id": "testing-library",
-    "name": "React Testing Library",
-    "image": "assets/images/logo-testing-library.svg"
-  },
-  {
-    "id": "nextjs",
-    "name": "Next.js",
-    "image": "assets/images/logo-next.svg"
+    "id": "nodejs",
+    "name": "Node.js",
+    "image": "assets/images/logo-node.svg"
   },
   {
     "id": "postgresql",
@@ -60,6 +61,26 @@
     "name": "Prisma",
     "image": "assets/images/logo-prisma.svg",
     "light": "assets/images/logo-prisma-light.svg"
+  },
+  {
+    "id": "mongodb",
+    "name": "MongoDB",
+    "image": "assets/images/logo-mongodb.svg"
+  },
+  {
+    "id": "mongoose",
+    "name": "Mongoose",
+    "image": "assets/images/logo-mongoose.svg"
+  },
+  {
+    "id": "jest",
+    "name": "Jest",
+    "image": "assets/images/logo-jest.svg"
+  },
+  {
+    "id": "testing-library",
+    "name": "React Testing Library",
+    "image": "assets/images/logo-testing-library.svg"
   },
   {
     "id": "vite",
