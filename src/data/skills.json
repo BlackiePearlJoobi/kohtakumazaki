@@ -31,12 +31,6 @@
     "image": "assets/images/logo-next.svg"
   },
   {
-    "id": "express",
-    "name": "Express",
-    "image": "assets/images/logo-express.svg",
-    "light": "assets/images/logo-express-light.svg"
-  },
-  {
     "id": "SCSS",
     "name": "SCSS",
     "image": "assets/images/logo-scss.svg"
