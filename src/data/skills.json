@@ -41,11 +41,6 @@
     "image": "assets/images/logo-tailwind.svg"
   },
   {
-    "id": "nodejs",
-    "name": "Node.js",
-    "image": "assets/images/logo-node.svg"
-  },
-  {
     "id": "postgresql",
     "name": "PostgreSQL",
     "image": "assets/images/logo-postgresql.svg"
@@ -55,16 +50,6 @@
     "name": "Prisma",
     "image": "assets/images/logo-prisma.svg",
     "light": "assets/images/logo-prisma-light.svg"
-  },
-  {
-    "id": "mongodb",
-    "name": "MongoDB",
-    "image": "assets/images/logo-mongodb.svg"
-  },
-  {
-    "id": "mongoose",
-    "name": "Mongoose",
-    "image": "assets/images/logo-mongoose.svg"
   },
   {
     "id": "jest",
