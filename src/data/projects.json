@@ -1,5 +1,23 @@
 [
   {
+    "id": "countries",
+    "name": "REST Countries Explorer",
+    "image": {
+      "small": "assets/images/thumbnail-countries-small.png",
+      "large": "assets/images/thumbnail-countries-large.jpg"
+    },
+    "description": "A lightweight data-driven application that consumes the REST Countries API with server-rendered pages, dynamic routing, and robust search and filter capabilities.",
+    "tech": [
+      "Next.js",
+      "Tailwind CSS",
+      "RESTful API",
+      "Jest",
+      "React Testing Library"
+    ],
+    "live": "https://rest-countries-api-sigma-bice.vercel.app/",
+    "code": "https://github.com/BlackiePearlJoobi/rest-countries-api"
+  },
+  {
     "id": "audiophile",
     "name": "Audiophile E-commerce Website",
     "image": {
@@ -28,7 +46,7 @@
     },
     "description": "A classic board game complete with fluid animations and AI opponents that adapt to your skill level.",
     "tech": [
-      "CSS",
+      "CSS Modules",
       "React",
       "TypeScript",
       "Vite",

@@ -41,6 +41,11 @@
     "image": "assets/images/logo-tailwind.svg"
   },
   {
+    "id": "restapi",
+    "name": "RESTful API",
+    "image": "assets/images/logo-restapi.svg"
+  },
+  {
     "id": "postgresql",
     "name": "PostgreSQL",
     "image": "assets/images/logo-postgresql.svg"
