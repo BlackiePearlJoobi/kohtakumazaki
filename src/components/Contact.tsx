@@ -22,7 +22,7 @@ const Contact = () => {
       <span
         className={`text-[14px] font-medium leading-[26px] ${darkMode ? "text-[var(--gray)]" : "text-[var(--dark-gray)]"} text-center sm:text-[16px]`}
       >
-        © 2025 Kohta Kumazaki
+        © 2026 Kohta Kumazaki
       </span>
     </section>
   );

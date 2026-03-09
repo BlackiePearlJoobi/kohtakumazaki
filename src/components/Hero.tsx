@@ -42,9 +42,9 @@ const Hero = () => {
         <p
           className={`text-[16px] font-medium leading-[26px] ${darkMode ? "text-[var(--gray)]" : "text-[var(--dark-gray)]"} text-center sm:text-[18px] sm:text-start`}
         >
-          Front-end developer based in the US, focused on building inclusive,
-          scalable systems that prioritize real-world usability and ethical
-          design.
+          React and Next.js front-end developer focused on accessible UI
+          architecture, performance‑minded design, and systems that scale
+          responsibly in real-world use.
         </p>
         <Social message="COLLABORATE WITH ME"></Social>
       </article>
