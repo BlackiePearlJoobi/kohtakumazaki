@@ -36,7 +36,7 @@ const Projects = () => {
             </picture>
             <div className="px-[24px] flex flex-col gap-[20px]">
               <h4
-                className={`text-[24px] font-bold leading-[var(--line-height-bold-24)] ${darkMode ? "text-[var(--white)]" : "text-[var(--black)]"}`}
+                className={`text-[22px] font-bold leading-[var(--line-height-bold-24)] ${darkMode ? "text-[var(--white)]" : "text-[var(--black)]"}`}
               >
                 {project.name}
               </h4>

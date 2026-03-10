@@ -6,7 +6,7 @@
       "small": "assets/images/thumbnail-audiophile-small.png",
       "large": "assets/images/thumbnail-audiophile-large.jpg"
     },
-    "description": " A responsive full‑stack platform built with the dynamic Next.js App Router, PostgreSQL, a global cart context, and an accessible checkout experience.",
+    "description": " A responsive full‑stack online shopping platform built with the dynamic Next.js App Router, PostgreSQL, a global cart context, and an accessible checkout experience.",
     "tech": [
       "Next.js",
       "Tailwind CSS",
@@ -21,7 +21,7 @@
   },
   {
     "id": "countries",
-    "name": "REST Countries Explorer",
+    "name": "RESTful API Countries Explorer",
     "image": {
       "small": "assets/images/thumbnail-countries-small.png",
       "large": "assets/images/thumbnail-countries-large.jpg"
